@@ -40,6 +40,9 @@
 - name: Big Data
   slug: big-data
 
+- name: Cloud
+  slug: cloud
+
 - name: Software Engineering
   slug: software-engineering
 

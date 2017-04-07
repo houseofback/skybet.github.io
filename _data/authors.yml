@@ -23,6 +23,17 @@ david_sunter:
     interests: Football, Tennis, Cricket, Snowboarding, Gaming, Technology
     twitter: davidasunter
 
+andrew_backhouse:
+    name: Andrew Backhouse
+    image: andrew_backhouse.jpg
+    role: Solution Architect, Platform Services
+    tribe: Data
+    startDate: 01-04-2016
+    bio: "Andrew has a keen eye on cloud adoption here at SB&G. He has a passion for serverless architectures."
+    interests: F1, FPL, AWS
+    twitter: Backhoouse
+    github: houseofback
+
 gav_harris:
     name: Gav Harris
     image: gavin_harris.jpg
